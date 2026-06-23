@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Tenseract_JBox") (type "KiCad") (uri "${KIPRJMOD}/Tenseract_JBox.pretty") (options "") (descr ""))
+)
