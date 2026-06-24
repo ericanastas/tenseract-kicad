@@ -7,6 +7,8 @@ PCBs for Tenseract Burning Man art project
 
 ![](./Tenseract_JBox.png)
 
+![](./Tenseract-JBox-Strut-Render.png)
+
 ![Tenseract_JBox.pdf](./Tenseract_JBox.svg)
 
 [Tenseract_JBox.pdf](./Tenseract_JBox.pdf)
