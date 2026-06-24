@@ -9,7 +9,7 @@
 		(at 0 -3.15 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "21e3a48f-88ce-4983-adba-faf78ff9ce54")
+		(uuid "0bd39482-4ab5-4ed2-ab9c-93381154cba3")
 		(effects
 			(font
 				(size 1 1)
@@ -21,7 +21,7 @@
 		(at 0 3.15 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "d1c30582-586f-4c55-814d-aca5f49b2235")
+		(uuid "c33bb1cb-8ea1-4058-9e59-4bddd48a338d")
 		(effects
 			(font
 				(size 1 1)
@@ -33,7 +33,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0f7e8efc-fea9-4bf3-81b7-57360d7b419c")
+		(uuid "14f216ff-17f5-4f22-a283-28a4a550b680")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +44,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "816ac072-38a9-49e6-9738-ecf15470eafc")
+		(uuid "d76b2b07-4803-4933-992f-fabcdd80be24")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -55,7 +55,7 @@
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "d3a36d37-7142-47fb-a618-8bad00fe64bf")
+		(uuid "81a7a1e0-daaf-4fa3-aa00-ea71ad94a21f")
 		(effects
 			(font
 				(size 1 1)
@@ -74,17 +74,17 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "e9665acb-6a44-4e81-a391-09fcb75f430b")
+		(uuid "40e59bef-0683-454d-8687-23ba8293bf78")
 	)
 	(pad "" np_thru_hole circle
 		(at 0 0)
 		(size 2.2 2.2)
 		(drill 2.2)
 		(layers "*.Cu" "*.Mask")
-		(uuid "ce7ddf42-44a2-455f-b403-781d2f8c4aca")
+		(uuid "09d53c91-b292-4b37-b14f-e3c43f9b9cc4")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/m2-metric-socket-cap-head-screws-1.snapshot.7/Metric Socket Cap Head Screws/M2/step/Screw_DIN_912_M2x8F_A2.STEP"
+	(model "${KIPRJMOD}/3d-models/m2-socket-cap-head-screws/Screw_DIN_912_M2x8F_A2.STEP"
 		(offset
 			(xyz 0 0 -8)
 		)
