@@ -128,7 +128,7 @@
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
 			(subtractmaskfromsilk no)
-			(outputformat 5)
+			(outputformat 1)
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
@@ -6890,8 +6890,8 @@
 			(justify left mirror)
 		)
 	)
-	(gr_text "${TITLE} v${REVISION} \n${CURRENT_DATE}\nJLCJLCJLCJLC\n"
-		(at 136 50 90)
+	(gr_text "${TITLE} v${REVISION}"
+		(at 139.5 50 90)
 		(layer "B.SilkS")
 		(uuid "e9bb534f-c744-4bd6-9ef0-3c3aa19ed332")
 		(effects
@@ -6903,8 +6903,8 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "${TITLE} v${REVISION}\n${CURRENT_DATE}\nJLCJLCJLCJLC"
-		(at 86 50 270)
+	(gr_text "${TITLE} v${REVISION}"
+		(at 82.5 50 270)
 		(layer "B.SilkS")
 		(uuid "46857252-d68a-4491-b7a4-76f270a1dd49")
 		(effects
