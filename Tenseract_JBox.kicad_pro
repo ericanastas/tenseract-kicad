@@ -559,7 +559,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "D:/Dropbox/Burning Man/Tenseract/KiCad/Tenseract_JBox/fabrication output",
+      "plot": "gerber/",
       "specctra_dsn": "",
       "vrml": ""
     },
